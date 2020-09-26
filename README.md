@@ -1,10 +1,10 @@
 # conv-frame-predictor
-Base code for a convolutional neural network that tries to predict frames of a video based on previous frames. It's pretty bad, but if you're willing to mess around with it you can get some cool artifacts out of it. I probably won't be explaining any of what the code does in-depth right now or anytime soon, so reach out if you have a question. <br>
+Base code for a convolutional neural network that tries to predict frames of a video based on previous frames. It's pretty bad, but if you're willing to mess around with it you can get some cool artifacts out of it.
 
 This isn't at all a practical endeavor, just did this for creative/artistic reasons.
 
 # WARNING
-This code is super disorganized, messy, and barely has any real documentation. I just wrote it for personal use, so I'm not gonna go through and make it super neat.  I will regret this choice in two months when I inevitably return to this code and can't navigate it for my life, but for now I don't care.
+This code is super disorganized, messy, and barely has any real documentation. I just wrote it for personal use, so I'm not gonna go through and make it super neat, so reach out if you have a question.  I will regret this choice in two months when I inevitably return to this code and can't navigate it for my life, but for now I don't care.
 
 ## Requirements:
 <ul>
@@ -47,3 +47,6 @@ If you want to use this code, here's what you're gonna have to do:
   <li>Want to try on different data domains</li>
   <li>I trained my model on images size (512x512), but since all the layers are just convolutional, you can totally run it on higher resolutions. In some cases you can get really really interesting artifacts by doing this. Definitely something to consider messing around with.</li>
 </ul>
+
+# Some results:
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires3.gif?raw=true)
