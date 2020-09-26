@@ -3,6 +3,9 @@ Base code for a convolutional neural network that tries to predict frames of a v
 
 This isn't at all a practical endeavor, just did this for creative/artistic reasons.
 
+# WARNING
+This code is super disorganized, messy, and barely has any real documentation. I just wrote it for personal use, so I'm not gonna go through and make it super neat.  I will regret this choice in two months when I inevitably return to this code and can't navigate it for my life, but for now I don't care.
+
 ## Requirements:
 <ul>
   <li>Tensorflow 2 w/ Keras</li>
@@ -42,5 +45,5 @@ If you want to use this code, here's what you're gonna have to do:
   <li>I was super impatient with this model and only ever ended up training it on a tiny subset of data. If you bunker down and let it rip on a whole video you might get something better</li>
   <li>Want to try implementing a PixelCNN decoder</li>
   <li>Want to try on different data domains</li>
-  <li></li>
+  <li>I trained my model on images size (512x512), but since all the layers are just convolutional, you can totally run it on higher resolutions. In some cases you can get really really interesting artifacts by doing this. Definitely something to consider messing around with.</li>
 </ul>
