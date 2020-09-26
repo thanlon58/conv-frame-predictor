@@ -50,3 +50,12 @@ If you want to use this code, here's what you're gonna have to do:
 
 # Some results:
 ![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires3.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires4.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires5.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires6.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/hires9!.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/staticnight.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/stackvid4.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/stackvid5.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/stackvid7.gif?raw=true)
+![alt text](https://github.com/thanlon58/conv-frame-predictor/blob/master/results/stackvid8.gif?raw=true)
