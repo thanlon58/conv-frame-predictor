@@ -3,6 +3,12 @@ Base code for a convolutional neural network that tries to predict frames of a v
 
 This isn't at all a practical endeavor, just did this for creative/artistic reasons.
 
+## Requirements:
+<ul>
+  <li>Tensorflow 2 w/ Keras</li>
+  <li>PIL</li>
+  <li>Numpy</li>
+</ul>
 
 ## Architecture:
 The idea behind this project is to give a network a few frames (I did 5) and ask it
@@ -30,3 +36,11 @@ If you want to use this code, here's what you're gonna have to do:
  if it looks cool</li>
  <li>Mess around with the model in a jupyter notebook</li>
 </ol>
+
+# Notes:
+<ul>
+  <li>I was super impatient with this model and only ever ended up training it on a tiny subset of data. If you bunker down and let it rip on a whole video you might get something better</li>
+  <li>Want to try implementing a PixelCNN decoder</li>
+  <li>Want to try on different data domains</li>
+  <li></li>
+</ul>
